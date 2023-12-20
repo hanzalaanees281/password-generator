@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(96, 40, 40);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    font-size: 4vh;
+    margin-top: 3vh;
+    color: #fff;
+}
+.pass{
+    display: flex;
+    justify-content: center;
+    padding: 5vh;
+    color: #fff;
+}
+#gen{
+    display: flex;
+    justify-content: center;
+    font-size: 4vh;
+    color: #fff;
+}
+button{
+    width: 40vh;
+    height: 5vh;
+    font-size: 3vh;
+    color: #fff;
+}
